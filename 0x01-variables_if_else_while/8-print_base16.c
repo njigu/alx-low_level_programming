@@ -2,7 +2,15 @@
 /*call header files*/
 #include <stdio.h>
 /*Main-Entry point*/
-/* printing base 16 numbers*/
+
+/*Description- printing base 16 numbers*/
+/**
+* main - print the string in the put function
+*
+* Description: using the main function
+* this program prints basse 16
+* Return: 0
+*/
 int main(void)
 {
 	/*Declare variables*/
